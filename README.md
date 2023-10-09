@@ -1,2 +1,2 @@
 # learn-qml
-exploration of quantum machine learning (QML) 
+Exploration of quantum computing and quamtum machine learning (QML) through [Pennylane](https://pennylane.ai/qml/). 
